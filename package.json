@@ -1,7 +1,7 @@
 {
   "name": "deepcode",
   "main": "./lib/deepcode",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Detect bugs and quality issues in JavaScript, TypeScript, Python and Java...",
   "keywords": [
     "code analysis",
