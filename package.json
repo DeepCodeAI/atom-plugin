@@ -24,7 +24,7 @@
   "dependencies": {
     "@deepcode/tsc": "1.0.0",
     "lodash": "^4.17.20",
-    "open": "^7.3.0",
+    "open": "^7.3.1",
     "ignore": "^5.1.8",
     "queue": "^6.0.1",
     "rollup": "^0.68.2"
